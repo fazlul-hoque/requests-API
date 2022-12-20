@@ -1,3 +1,3 @@
 # Technology:
 
-Python | requests | API | API | Json | Pandas DataFrame
+Python | requests | API | Json | post Method | Pandas DataFrame |
