@@ -1,7 +1,8 @@
 
+#Author: Md.Fazlul Hoque
+#Source: Stackoverflow and answered by the author
+#Source link: https://stackoverflow.com/questions/70170480/how-to-scrape-product-data-from-website-pages-that-uses-graphql/70231326#70231326
 
-
-#https://stackoverflow.com/questions/70170480/how-to-scrape-product-data-from-website-pages-that-uses-graphql/70231326#70231326
 
 
 import requests
